@@ -26,6 +26,12 @@ After you've signed up, login and follow the steps below -
    * There are [numerous resources](https://www.google.com/search?q=jupyter%20tutorial) that can introduce you to Jupyter Notebook.
 
 
+#### Enable Logging
+
+* Go to your instabase account settings by clicking on the smiley face in the upper right of instabase.com, and then clicking on settings
+* Click on "Application" in the left side bar
+* Click "Enable logging" and then "Update Notebook Settings".
+
 ### Part 2: Google Form
 
 Fill out [this google form](https://goo.gl/forms/O9jzf28Jfu0TLlZx1)
