@@ -11,8 +11,8 @@ For this lab, we've partnered with [Instabase](https://www.instabase.com/) to pr
 To get started, create an account on the [website](https://www.instabase.com/account/register?use_token=true) (note that this URL is special for this class). 
 The service is still in beta, so:
 
+* USE THE FOLLOWING TOKEN IN ORDER TO REGISTER: `ewu-columbia`
 * Go to https://www.instabase.com/account/register?use_token=true
-* Use the following token: `ewu-columbia`
 * Make sure you sign up with your columbia email. 
 
 After you've signed up, login and follow the steps below - 
