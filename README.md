@@ -14,6 +14,7 @@ The service is still in beta, so:
 * USE THE FOLLOWING TOKEN IN ORDER TO REGISTER: `ewu-columbia`
 * Go to https://www.instabase.com/account/register?use_token=true
 * Make sure you sign up with your columbia email. 
+* If you did not register using the token, you can still enter the token at this login page: https://www.instabase.com/account/login?use_token=true
 
 After you've signed up, login and follow the steps below - 
 
