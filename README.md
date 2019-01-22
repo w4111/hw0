@@ -1,7 +1,7 @@
 # HW 0
 
-* Assigned: 9/4
-* Due: 9/7 10AM sharp
+* Assigned: 1/22
+* Due: 1/25 10AM sharp
 
 This assignment has two parts. In the first part, you will setup a programming environment and perform some data analysis. In the second part, you will fill out a Google form to describe a bit about yourself and understand the class expectations.
 
@@ -35,5 +35,5 @@ After you've signed up, login and follow the steps below -
 
 ### Part 2: Google Form
 
-Fill out [this google form](https://goo.gl/forms/O9jzf28Jfu0TLlZx1)
+Fill out [this google form](https://goo.gl/forms/le9IbluYozHLd38x1)
 
