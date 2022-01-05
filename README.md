@@ -8,7 +8,7 @@ This assignment has two parts. In the first part, you will setup a programming e
 ### Part 1: Data Analysis
 
 
-* Click here to [Open the hw0 notebook in Google Colab](https://colab.research.google.com/github/w4111/hw0-s22/blob/master/hw0.ipynb).
+* Click here to [Open the hw0 notebook in Google Colab](https://colab.research.google.com/github/w4111/hw0/blob/master/hw0.ipynb).
 * Follow the instructions in the notebook to complete and submit homework 0
    * There are [numerous resources](https://www.google.com/search?q=jupyter%20tutorial) that can introduce you to Jupyter Notebook.
 
