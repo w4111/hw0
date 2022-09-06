@@ -1,5 +1,7 @@
 # HW 0
 
+**All Students Enrolled, Waitlisted, or Otherwise must complete HW 0**
+
 * Assigned: 9/6
 * Due: 9/11 11:59PM on Gradescope (entry code **2K2KP3** if you weren't already added)
 * No Late Days!   Failure to submit on time is a -5% penalty on your final grade.
