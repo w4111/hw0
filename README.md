@@ -14,6 +14,7 @@ This assignment has two parts. In the first part, you will setup a programming e
 * Click "ctrl + s" and save a copy to your own Google Drive
 * Follow the instructions in the notebook to complete and submit homework 0
    * There are [numerous resources](https://www.google.com/search?q=jupyter%20tutorial) that can introduce you to Jupyter Notebook.
+   * Come to office hours for help!
 
 
 ### Part 2: Google Form
