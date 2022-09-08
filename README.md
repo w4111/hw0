@@ -8,6 +8,12 @@
 
 This assignment has two parts. In the first part, you will setup a programming environment and perform some data analysis. In the second part, you will fill out a Google form to describe a bit about yourself and understand the class expectations.
 
+GRADESCOPE
+
+* Use the link https://www.gradescope.com/courses/436228 with the code **2K2KP3**
+* If you do not already have an account, use your `xx1234@columbia.edu` email!
+
+
 Edits 
 
 * **Update 9/8: Added instructions to parse csv file.**
