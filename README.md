@@ -8,6 +8,8 @@
 
 This assignment has two parts. In the first part, you will setup a programming environment and perform some data analysis. In the second part, you will fill out a Google form to describe a bit about yourself and understand the class expectations.
 
+**Update 9/8: Added instructions to parse csv file.**
+
 ### Part 1: Data Analysis
 
 * [Click here to open the HW0 notebook in google colab](https://colab.research.google.com/github/w4111/hw0/blob/master/hw0.ipynb)
