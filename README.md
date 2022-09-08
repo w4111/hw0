@@ -10,6 +10,9 @@ This assignment has two parts. In the first part, you will setup a programming e
 
 **Update 9/8: Added instructions to parse csv file.**
 
+**To learn and practice the basics of SQL, check out [this interactive tutorial](https://www.sql-practice.com/).**
+
+
 ### Part 1: Data Analysis
 
 * [Click here to open the HW0 notebook in google colab](https://colab.research.google.com/github/w4111/hw0/blob/master/hw0.ipynb)
