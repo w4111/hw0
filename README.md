@@ -16,8 +16,7 @@ GRADESCOPE
 
 Edits 
 
-* **Update 9/8: Added instructions to parse csv file.**
-* 9/8: added link to gradescope
+* will be listed here
 
 **To learn and practice the basics of SQL, check out [this interactive tutorial](https://www.sql-practice.com/).**
 
@@ -33,5 +32,5 @@ Edits
 
 ### Part 2: Google Form
 
-Fill out [this google form](https://forms.gle/C9Y7fwkYmpLUpUF37)
+Fill out [the google form](https://forms.gle/N3upEvkXaffVWAgY9)
 
