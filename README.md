@@ -2,9 +2,9 @@
 
 **All Students Enrolled, Waitlisted, or Otherwise must complete HW 0**
 
-* Assigned: 9/6
-* Due: 9/11 11:59PM 0[on Gradescope](https://www.gradescope.com/courses/436228) (entry code **2K2KP3** if you weren't already added)
-* No Late Days!   Failure to submit on time is a -5% penalty on your final grade.
+* Assigned: 9/3
+* Due: 9/6 11:59PM [on Gradescope](https://www.gradescope.com/courses/842574/) (entry code **XG8W55** if you weren't already added)
+* No Late Days!   Failure to submit on time is a **5% deduction on your final grade**.
 
 This assignment has two parts. In the first part, you will setup a programming environment and perform some data analysis. In the second part, you will fill out a Google form to describe a bit about yourself and understand the class expectations.
 
