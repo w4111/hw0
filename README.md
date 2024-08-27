@@ -10,7 +10,7 @@ This assignment has two parts. In the first part, you will setup a programming e
 
 GRADESCOPE
 
-* Use the link https://www.gradescope.com/courses/436228 with the code **2K2KP3**
+* Use the link https://www.gradescope.com/courses/842574/ (entry code **XG8W55** if you weren't already added)
 * If you do not already have an account, use your `xx1234@columbia.edu` email!
 
 
