@@ -4,7 +4,7 @@
 
 * Assigned: 9/3
 * Due: 9/6 11:59PM [on Gradescope](https://www.gradescope.com/courses/842574/) (entry code **XG8W55** if you weren't already added)
-* No Late Days!   Failure to submit on time is a **5% deduction on your final grade**.
+* No Late Days!   Failure to submit on time is a **3% deduction on your final grade**.
 
 This assignment has two parts. In the first part, you will setup a programming environment and perform some data analysis. In the second part, you will fill out a Google form to describe a bit about yourself and understand the class expectations.
 
@@ -18,8 +18,6 @@ Edits
 
 * will be listed here
 
-**To learn and practice the basics of SQL, check out [this interactive tutorial](https://www.sql-practice.com/).**
-
 
 ### Part 1: Data Analysis
 
@@ -28,9 +26,18 @@ Edits
 * Follow the instructions in the notebook to complete and submit homework 0
    * There are [numerous resources](https://www.google.com/search?q=jupyter%20tutorial) that can introduce you to Jupyter Notebook.
    * Come to office hours for help!
+* You may use Colab's AI coding assistant for this assignment.  Click "Gemini" in the upper right corner and follow its instructions.
 
 
-### Part 2: Google Form
+### Part 2: Introduce yourself in the discussion board
+
+Go to the "HW0 Introduce Yourself" thread on the [course discussion board](https://edstem.org/us/courses/61495/discussion), and reply with a comment that
+
+* Introduces yourself,
+* Shares something you love that you think is underrated and why
+* Comments on the post immediately above yours.
+
+### Part 3: Google Form
 
 Fill out [the google form](https://forms.gle/N3upEvkXaffVWAgY9)
 
