@@ -37,6 +37,8 @@ Go to the "HW0 Introduce Yourself" thread on the [course discussion board](https
 * Shares something you love that you think is underrated and why
 * Comments on the post immediately above yours.
 
+If you are not enrolled in the course, [click here to sign up with your Columbia email](https://edstem.org/us/join/9BmhjQ).
+
 ### Part 3: Google Form
 
 Fill out [the google form](https://forms.gle/N3upEvkXaffVWAgY9)
