@@ -4,7 +4,7 @@
 
 * Assigned: 9/3
 * Due: 9/8 11:59PM [on Gradescope](https://www.gradescope.com/courses/842574/) (entry code **XG8W55** if you weren't already added)
-* No Late Days!   Failure to submit on time is a **5% deduction on your final grade**.
+* No Late Days!   Failure to submit on time is a **3% deduction on your final grade**.
 
 This assignment has two parts. In the first part, you will setup a programming environment and perform some data analysis. In the second part, you will fill out a Google form to describe a bit about yourself and understand the class expectations.
 
